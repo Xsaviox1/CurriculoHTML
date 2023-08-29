@@ -1,0 +1,47 @@
+header .nome{
+    font-size: 4vw;    
+}
+header{
+    display: flex;
+    padding: 4vh 10vw 45vh 10vw;
+}
+.texto{
+    color: black;
+    text-decoration: none;
+    width: 50%;
+    height: 30vh;
+}
+.infoTitulo{
+    padding-right: 2vw;
+}
+.nome{
+    padding-bottom: 3vh;
+}
+.texto a{
+    color:#2009B3;
+}
+.texto a:hover{
+    color:#5200C9;
+}
+.foto img{
+    width: 15vw;
+    height: 14vw;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.foto{
+    height: 30vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    width: 100%;
+    justify-content: space-between;
+    height: 30vh;
+}
+.info{
+    display: flex;
+}
